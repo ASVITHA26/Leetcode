@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ASVITHA26/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ASVITHA26/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
