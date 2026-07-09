@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ASVITHA26/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ASVITHA26/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ASVITHA26/Leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/ASVITHA26/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ASVITHA26/Leetcode/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/ASVITHA26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0045-jump-game-ii) |
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ASVITHA26/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/ASVITHA26/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
