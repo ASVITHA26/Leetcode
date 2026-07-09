@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ASVITHA26/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ASVITHA26/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ASVITHA26/Leetcode/tree/master/0067-add-binary) |
 ## Simulation
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASVITHA26/Leetcode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ASVITHA26/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
