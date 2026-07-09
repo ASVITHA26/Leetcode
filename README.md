@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ASVITHA26/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ASVITHA26/Leetcode/tree/master/0067-add-binary) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0507-perfect-number](https://github.com/ASVITHA26/Leetcode/tree/master/0507-perfect-number) |
 ## Simulation
 |  |
 | ------- |
