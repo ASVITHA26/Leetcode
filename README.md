@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASVITHA26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ASVITHA26/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/ASVITHA26/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ASVITHA26/Leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/ASVITHA26/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
