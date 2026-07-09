@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/ASVITHA26/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 ## String
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASVITHA26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ASVITHA26/Leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/ASVITHA26/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ASVITHA26/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ASVITHA26/Leetcode/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/ASVITHA26/Leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
