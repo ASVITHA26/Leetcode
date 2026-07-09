@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -16,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
