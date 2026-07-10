@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ASVITHA26/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/ASVITHA26/Leetcode/tree/master/0274-h-index) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 <!---LeetCode Topics End-->
