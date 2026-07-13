@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ASVITHA26/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ASVITHA26/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1313-decompress-run-length-encoded-list](https://github.com/ASVITHA26/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 ## Binary Search
 |  |
 | ------- |
