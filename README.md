@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/ASVITHA26/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3731-find-missing-elements](https://github.com/ASVITHA26/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ASVITHA26/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/ASVITHA26/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1313-decompress-run-length-encoded-list](https://github.com/ASVITHA26/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [3731-find-missing-elements](https://github.com/ASVITHA26/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ASVITHA26/Leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0507-perfect-number](https://github.com/ASVITHA26/Leetcode/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ASVITHA26/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Union-Find
 |  |
 | ------- |
