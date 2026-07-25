@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASVITHA26/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ASVITHA26/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ASVITHA26/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ASVITHA26/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ASVITHA26/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ASVITHA26/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ASVITHA26/Leetcode/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ASVITHA26/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ASVITHA26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASVITHA26/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ASVITHA26/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ASVITHA26/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ASVITHA26/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ASVITHA26/Leetcode/tree/master/0068-text-justification) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ASVITHA26/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ASVITHA26/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ASVITHA26/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ASVITHA26/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ASVITHA26/Leetcode/tree/master/0274-h-index) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ASVITHA26/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/ASVITHA26/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ASVITHA26/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ASVITHA26/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ASVITHA26/Leetcode/tree/master/0066-plus-one) |
