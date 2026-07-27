@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/ASVITHA26/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/ASVITHA26/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Bit Manipulation
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ASVITHA26/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/ASVITHA26/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/ASVITHA26/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ASVITHA26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ASVITHA26/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/ASVITHA26/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/ASVITHA26/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
