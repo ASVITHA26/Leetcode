@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ASVITHA26/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ASVITHA26/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/ASVITHA26/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ASVITHA26/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ASVITHA26/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ASVITHA26/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ASVITHA26/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ASVITHA26/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ASVITHA26/Leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/ASVITHA26/Leetcode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ASVITHA26/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ASVITHA26/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ASVITHA26/Leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ASVITHA26/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASVITHA26/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/ASVITHA26/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ASVITHA26/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ASVITHA26/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ASVITHA26/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ASVITHA26/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/ASVITHA26/Leetcode/tree/master/0507-perfect-number) |
