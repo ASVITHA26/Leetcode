@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ASVITHA26/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ASVITHA26/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ASVITHA26/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ASVITHA26/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ASVITHA26/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ASVITHA26/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ASVITHA26/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ASVITHA26/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/ASVITHA26/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -302,4 +304,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ASVITHA26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ASVITHA26/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ASVITHA26/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ASVITHA26/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ASVITHA26/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ASVITHA26/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
