@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ASVITHA26/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ASVITHA26/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1833-maximum-ice-cream-bars](https://github.com/ASVITHA26/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2826-sorting-three-groups](https://github.com/ASVITHA26/Leetcode/tree/master/2826-sorting-three-groups) |
 | [3731-find-missing-elements](https://github.com/ASVITHA26/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/ASVITHA26/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ASVITHA26/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2826-sorting-three-groups](https://github.com/ASVITHA26/Leetcode/tree/master/2826-sorting-three-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ASVITHA26/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0647-palindromic-substrings](https://github.com/ASVITHA26/Leetcode/tree/master/0647-palindromic-substrings) |
+| [2826-sorting-three-groups](https://github.com/ASVITHA26/Leetcode/tree/master/2826-sorting-three-groups) |
 ## Stack
 |  |
 | ------- |
