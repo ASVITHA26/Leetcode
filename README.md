@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/ASVITHA26/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0494-target-sum) |
+| [0552-student-attendance-record-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0552-student-attendance-record-ii) |
 | [0647-palindromic-substrings](https://github.com/ASVITHA26/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2826-sorting-three-groups](https://github.com/ASVITHA26/Leetcode/tree/master/2826-sorting-three-groups) |
 ## Stack
