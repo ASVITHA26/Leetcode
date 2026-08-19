@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ASVITHA26/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ASVITHA26/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ASVITHA26/Leetcode/tree/master/0274-h-index) |
+| [0321-create-maximum-number](https://github.com/ASVITHA26/Leetcode/tree/master/0321-create-maximum-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ASVITHA26/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/ASVITHA26/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASVITHA26/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ASVITHA26/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ASVITHA26/Leetcode/tree/master/0202-happy-number) |
+| [0321-create-maximum-number](https://github.com/ASVITHA26/Leetcode/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ASVITHA26/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASVITHA26/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ASVITHA26/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/ASVITHA26/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/ASVITHA26/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ASVITHA26/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Recursion
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ASVITHA26/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ASVITHA26/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ASVITHA26/Leetcode/tree/master/0179-largest-number) |
+| [0321-create-maximum-number](https://github.com/ASVITHA26/Leetcode/tree/master/0321-create-maximum-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ASVITHA26/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1833-maximum-ice-cream-bars](https://github.com/ASVITHA26/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Design
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ASVITHA26/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0321-create-maximum-number](https://github.com/ASVITHA26/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/ASVITHA26/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Counting Sort
 |  |
