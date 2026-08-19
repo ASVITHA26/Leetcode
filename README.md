@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ASVITHA26/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ASVITHA26/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/ASVITHA26/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ASVITHA26/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-find-common-characters](https://github.com/ASVITHA26/Leetcode/tree/master/1002-find-common-characters) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ASVITHA26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/ASVITHA26/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/ASVITHA26/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ASVITHA26/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1002-find-common-characters](https://github.com/ASVITHA26/Leetcode/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ASVITHA26/Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ASVITHA26/Leetcode/tree/master/0202-happy-number) |
 | [0321-create-maximum-number](https://github.com/ASVITHA26/Leetcode/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/ASVITHA26/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ASVITHA26/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ASVITHA26/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ASVITHA26/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/ASVITHA26/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ASVITHA26/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/ASVITHA26/Leetcode/tree/master/0643-maximum-average-subarray-i) |
