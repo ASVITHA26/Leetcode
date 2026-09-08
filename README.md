@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ASVITHA26/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ASVITHA26/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ASVITHA26/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ASVITHA26/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ASVITHA26/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ASVITHA26/Leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ASVITHA26/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ASVITHA26/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ASVITHA26/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ASVITHA26/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ASVITHA26/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/ASVITHA26/Leetcode/tree/master/0118-pascals-triangle) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ASVITHA26/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/ASVITHA26/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0494-target-sum) |
 ## Matrix
 |  |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ASVITHA26/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ASVITHA26/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ASVITHA26/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ASVITHA26/Leetcode/tree/master/0079-word-search) |
 ## Enumeration
 |  |
 | ------- |
@@ -471,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ASVITHA26/Leetcode/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ASVITHA26/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
