@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ASVITHA26/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ASVITHA26/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ASVITHA26/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ASVITHA26/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Simulation
 |  |
 | ------- |
@@ -481,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ASVITHA26/Leetcode/tree/master/0079-word-search) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ASVITHA26/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
